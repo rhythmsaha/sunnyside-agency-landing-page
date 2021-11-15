@@ -13,7 +13,7 @@ const Hero = () => {
                 <img
                     src="/images/icon-arrow-down.svg"
                     alt="arrow down"
-                    className="mt-4 lg:mt-44 h-36 object-contain"
+                    className="mt-4 sm:mt-16 lg:mt-24 xl:mt-36 h-20 lg:h-36 object-contain animate-bounce"
                 />
             </div>
         </section>
